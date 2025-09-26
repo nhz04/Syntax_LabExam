@@ -82,7 +82,7 @@ if ($_SERVER["REQUEST_METHOD"]=="POST") {
 </head>
 <body class="h-screen w-screen">
   <!-- Background Image -->
-  <div class="relative h-full w-full bg-cover bg-center" style="background-image: url('img/pink.jpg');">
+  <div class="relative h-full w-full bg-cover bg-center" style="background-image: url('img/red.jpg');">
     <!-- Dark overlay -->
     <div class="absolute inset-0 bg-black/50"></div>
 

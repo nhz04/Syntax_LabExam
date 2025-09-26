@@ -56,7 +56,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 <body class="h-screen w-screen">
     <div class="relative h-full w-full bg-cover bg-center" 
-        style="background-image: url('img/pink.jpg');">
+        style="background-image: url('img/red.jpg');">
 
     <div class="absolute inset-0 bg-black/50">
     </div>
