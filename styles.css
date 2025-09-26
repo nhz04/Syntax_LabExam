@@ -1,0 +1,21 @@
+
+.bg-pink-500 { background-color: #c71b1b; }
+.hover\:bg-pink-600:hover { background-color: #a81313; }
+.text-pink-500 { color: #c71b1b; }
+.focus\:ring-pink-500:focus {
+  box-shadow: 0 0 0 4px rgba(199,27,27,0.25);
+  border-color: #c71b1b;
+}
+
+
+input:focus {
+  outline: none;
+  border-color: #c71b1b;
+  box-shadow: 0 0 0 4px rgba(199,27,27,0.15);
+}
+
+
+.logo-area { padding-left: 0; }
+@media (min-width: 900px) {
+  .logo-area { padding-left: 6%; }
+}

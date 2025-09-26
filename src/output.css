@@ -8,6 +8,7 @@
       "Courier New", monospace;
     --default-font-family: var(--font-sans);
     --default-mono-font-family: var(--font-mono);
+    
   }
 }
 @layer base {
